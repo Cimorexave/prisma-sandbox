@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Cimorexave/prisma-sandbox/issues"
   },
-  "homepage": "https://github.com/Cimorexave/prisma-sandbox#readme"
+  "homepage": "https://github.com/Cimorexave/prisma-sandbox#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.3",
+    "nodemon": "^2.0.19",
+    "prisma": "^4.2.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
 }
